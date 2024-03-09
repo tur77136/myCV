@@ -1,21 +1,21 @@
 # **CURRICULUM VITAE**
 ## **Samuel M. Owens**
-### **PhD Biology Student**
-[Website](https://sites.temple.edu/smowens/) | [Email](mailto:sam.owens@temple.edu)
-- _Integrative Ecology Lab_ 
-- Department of Biology | Center for Biodiversity
+### **PSM Bioinformatics and Biological Data Science  Student**
+[Website]() | [Email](tur@temple.edu)
+- _Lab_ 
+- Department of Biology
 - Temple University
 
 
 ## Education
-**Temple University | PhD Biology**
+**Temple University | **
 
-*Spring 2022 - Current*
-- Graduate Advisor: Matthew Helmus, PhD
-- Thesis: "Modeling climate change effects on the establishment of the invasive *L. delicatula*"
+*Fall 2023 - Current*
+- Graduate Advisor: 
+- Thesis: 
 
 
-**Liberty University | BS Zoology, minor in Chemistry**
+**Ed University | BS Zoology, minor in Chemistry**
 
 *Fall 2015 - Spring 2019*
 - Undergraduate Advisor: Norman Reichenbach, PhD
