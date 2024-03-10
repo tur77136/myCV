@@ -1,6 +1,6 @@
 # **CURRICULUM VITAE**
 ## **Paige Morris**
-### **Graduate Student Student**
+### **Graduate Student**
 [Website]() | [Email](tur77136@temple.edu)
 - _Sillivan Lab_ 
 - Department of Neurosciences 
