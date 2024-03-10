@@ -11,14 +11,17 @@
 **UPenn West University | BS Health Sciences, minor in Applied Physics**
 *Fall 2017- Spring 2021 *
 - Undergraduate Advisor: Matthew Foradori, PhD, Sheldon Bailey, PhD
+- 
 ## Independent Research Projects
 **Spring 2021**
 ** Sonoluminescence- via acoustic cavitation**
 *Spring 2024 - Current*
 ** The inhibition of post-translational enzyme O-link GlcNac in minigating Heroin Seeking Behaviour
+
 ## Teaching Experience
 *Spring 2019-2021*
 *Physics tutor*
+
 ## Internships																	
 **Institute of Cardiovascular Sciences Summer Student** 
 *Cardiac Gene Biology Lab| Summer 2017-2019*
@@ -39,7 +42,7 @@
 ![image](https://github.com/tur77136/myCV/assets/157079782/80130fb5-a9d7-45ea-b5e8-1e7eadf8b16b)
 
 **Associate Scientist** 
-*InnaMed, Inc | January – December 2022*
+**InnaMed, Inc | January – December 2022**
 -Blood sample handling, spiking, and diluting blood samples to minimize pre-analytical error and preparation following standard clinical laboratory practices 
 -Assay development preparation and testing. Development of SOPs based on results
 -Routine inventory and laboratory maintenance. Standard chemistry lab calculations and solution formulations and dilutions
@@ -48,7 +51,7 @@
 ![image](https://github.com/tur77136/myCV/assets/157079782/457bcc57-3d94-4e74-8dd3-b0abe4e771fb)
 
 **Biopharmeceutical Manufacturing associate | July – November 2022 ** 
-*GlaxoSmithKline- Upstream Suite*
+**GlaxoSmithKline- Upstream Suite**
 -Documenting daily manufacturing tasks per cGMPs, standard operating procedures, and batch document instructions.
 -Applied aseptic gowning and all GMPcertifications for Cell Culture inoculations and Harvest
 -Strong ERP and Automation practices and monitoring of critical process parameters
