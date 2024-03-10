@@ -50,7 +50,7 @@
 -Electrode, polymer matrices, reagents, buffers, cocktail formulations, and general responsibilities 
 ![image](https://github.com/tur77136/myCV/assets/157079782/457bcc57-3d94-4e74-8dd3-b0abe4e771fb)
 
-**Biopharmeceutical Manufacturing associate | July – November 2022 ** 
+****Biopharmeceutical Manufacturing associate| September 2021 - January 2022 ** **
 **GlaxoSmithKline- Upstream Suite**
 -Documenting daily manufacturing tasks per cGMPs, standard operating procedures, and batch document instructions.
 -Applied aseptic gowning and all GMPcertifications for Cell Culture inoculations and Harvest
