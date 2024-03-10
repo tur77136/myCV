@@ -5,25 +5,20 @@
 - _Sillivan Lab_ 
 - Department of Neurosciences 
 - Temple University
-
 ## Education
 **Temple University | Bioinformatics and Biological Data Science MS **
 *Fall 2023 - Current*
-
 **UPenn West University | BS Health Sciences, minor in Applied Physics**
 *Fall 2017- Spring 2021 *
 - Undergraduate Advisor: Matthew Foradori, PhD, Sheldon Bailey, PhD
-
 ## Independent Research Projects
 **Spring 2021**
 ** Sonoluminescence- via acoustic cavitation**
 *Spring 2024 - Current*
 ** The inhibition of post-translational enzyme O-link GlcNac in minigating Heroin Seeking Behaviour
-
 ## Teaching Experience
 *Spring 2019-2021*
 *Physics tutor*
-
 ## Internships																	
 **Institute of Cardiovascular Sciences Summer Student** 
 *Cardiac Gene Biology Lab| Summer 2017-2019*
