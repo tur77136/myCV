@@ -31,7 +31,6 @@
 - Annual WHMIS training, data entry, package delivery, equipment storage, product ordering, cleaning, and general maintenance in between experiments
 - Reviewed and edited publications grant proposals for publishing
 - Conducted data analysis and entry of various inputs and interpreted results 
-![image](https://github.com/tur77136/myCV/assets/157079782/92b70642-2c45-488f-8252-8de5e273a442)
 
 ## Work Experience																
 **Laboratory Manager** 
@@ -40,7 +39,6 @@
 - Provide direction, training, and supervision of research activities to other technicians and student workers engaged in experimentation. Assist students in the performance of varied experiments; provide instruction in research techniques, equipment utilization, etc.
 - Order lab supplies, research and surgical equipment and monitor inventory. Maintain, assemble, adjust and repair a variety of sophisticated and complex laboratory equipment
 - Prepare laboratory animals and perform surgery, histology or other tests on animals used for research. Assure compliance with regulations pertaining to animal care and occupational safety in the animal surgery room
-![image](https://github.com/tur77136/myCV/assets/157079782/80130fb5-a9d7-45ea-b5e8-1e7eadf8b16b)
 
 **Associate Scientist** 
 **InnaMed, Inc | January – December 2022**
@@ -49,7 +47,6 @@
 - Routine inventory and laboratory maintenance. Standard chemistry lab calculations and solution formulations and dilutions
 - Electrochemical measurements, potentiometric and chronoamperometric techniques, and experiments followed by data analysis using quantitative methods in Excel and/or Python
 - Electrode, polymer matrices, reagents, buffers, cocktail formulations, and general responsibilities 
-![image](https://github.com/tur77136/myCV/assets/157079782/457bcc57-3d94-4e74-8dd3-b0abe4e771fb)
 
 **Biopharmeceutical Manufacturing associate| September 2021 - January 2022**
 **GlaxoSmithKline- Upstream Suite**
@@ -58,5 +55,3 @@
 - Strong ERP and Automation practices and monitoring of critical process parameters
 - Active participation in effective troubleshooting of equipment and processing issues
 - Developing SOPs and document revisions Maintaining a high level of mechanical and technical aptitude and training
-![image](https://github.com/tur77136/myCV/assets/157079782/7c805b12-e143-4eb1-95b0-0dfb13f2d2e4)
-						
