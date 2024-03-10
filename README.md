@@ -43,7 +43,7 @@
 -	Prepare laboratory animals and perform surgery, histology or other tests on animals used for research. Assure compliance with regulations pertaining to animal care and occupational safety in the animal surgery room
 ![image](https://github.com/tur77136/myCV/assets/157079782/80130fb5-a9d7-45ea-b5e8-1e7eadf8b16b)
 
-** Associate Scientist ** 
+**Associate Scientist** 
 *InnaMed, Inc | January – December 2022*
 -Blood sample handling, spiking, and diluting blood samples to minimize pre-analytical error and preparation following standard clinical laboratory practices 
 -Assay development preparation and testing. Development of SOPs based on results
@@ -52,7 +52,7 @@
 -Electrode, polymer matrices, reagents, buffers, cocktail formulations, and general responsibilities 
 ![image](https://github.com/tur77136/myCV/assets/157079782/457bcc57-3d94-4e74-8dd3-b0abe4e771fb)
 
-** Biopharmeceutical Manufacturing associate | July – November 2022 ** 
+**Biopharmeceutical Manufacturing associate | July – November 2022 ** 
 *GlaxoSmithKline- Upstream Suite*
 -Documenting daily manufacturing tasks per cGMPs, standard operating procedures, and batch document instructions.
 -Applied aseptic gowning and all GMPcertifications for Cell Culture inoculations and Harvest
