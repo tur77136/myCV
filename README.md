@@ -17,6 +17,7 @@
 - Undergraduate Advisor: Matthew Foradori, PhD, Sheldon Bailey, PhD
 
 ## Independent Research Projects
+**Spring 2021**
 ** Sonoluminescence- via acoustic cavitation**
 
 *Spring 2024 - Current*
