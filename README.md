@@ -1,25 +1,22 @@
 # **CURRICULUM VITAE**
 ## **Paige Morris**
-### **PSM Bioinformatics and Biological Data Science Student**
+### **Graduate Student Student**
 [Website]() | [Email](tur77136@temple.edu)
 - _Sillivan Lab_ 
 - Department of Neurosciences 
 - Temple University
 
 ## Education
-**Temple University | MS **
-
+**Temple University | Bioinformatics and Biological Data Science MS **
 *Fall 2023 - Current*
 
 **UPenn West University | BS Health Sciences, minor in Applied Physics**
-
 *Fall 2017- Spring 2021 *
 - Undergraduate Advisor: Matthew Foradori, PhD, Sheldon Bailey, PhD
 
 ## Independent Research Projects
 **Spring 2021**
 ** Sonoluminescence- via acoustic cavitation**
-
 *Spring 2024 - Current*
 ** The inhibition of post-translational enzyme O-link GlcNac in minigating Heroin Seeking Behaviour
 
@@ -27,10 +24,8 @@
 *Spring 2019-2021*
 *Physics tutor*
 
-## Internships																								
-
+## Internships																	
 **Institute of Cardiovascular Sciences Summer Student** 
-
 *Cardiac Gene Biology Lab| Summer 2017-2019*
 -	Equipment maintenance and operation involving western blots, cell culture, Real-time PCR
 -	techniques and assays inNanodrop, protein and RNA isolation, viral titration and propagation, mouse euthanasian and heart isolation etc.
@@ -38,7 +33,6 @@
 -	Reviewed and edited publications grant proposals for publishing
 -	Conducted data analysis and entry of various inputs and interpreted results 
 ![image](https://github.com/tur77136/myCV/assets/157079782/92b70642-2c45-488f-8252-8de5e273a442)
-
 
 ## Work Experience																
 **Laboratory Manager** 
