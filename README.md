@@ -34,7 +34,7 @@
 
 ## Work Experience																
 **Laboratory Manager** 
-*Temple University Dept of Biology | January 2023 – Current*
+*Temple University CSAR | January 2023 – Current*
 - Independently performing a wide range of research functions based on agreed protocols and objectives. Analyze and interpret results of experiments, performing literary research, and participating in the development of research and surgical protocols
 - Provide direction, training, and supervision of research activities to other technicians and student workers engaged in experimentation. Assist students in the performance of varied experiments; provide instruction in research techniques, equipment utilization, etc.
 - Order lab supplies, research and surgical equipment and monitor inventory. Maintain, assemble, adjust and repair a variety of sophisticated and complex laboratory equipment
