@@ -9,7 +9,7 @@
 **Temple University | Bioinformatics and Biological Data Science MS **
 *Fall 2023 - Current*
 **UPenn West University | BS Health Sciences, minor in Applied Physics**
-*Fall 2017- Spring 2021 *
+*Fall 2017- Spring 2021*
 - Undergraduate Advisor: Matthew Foradori, PhD, Sheldon Bailey, PhD
 - 
 ## Independent Research Projects
@@ -34,7 +34,7 @@
 
 ## Work Experience																
 **Laboratory Manager** 
-*Temple University Dept of Biology | January 2023 – Current *
+*Temple University Dept of Biology | January 2023 – Current*
 -	Independently performing a wide range of research functions based on agreed protocols and objectives. Analyze and interpret results of experiments, performing literary research, and participating in the development of research and surgical protocols
 -	Provide direction, training, and supervision of research activities to other technicians and student workers engaged in experimentation. Assist students in the performance of varied experiments; provide instruction in research techniques, equipment utilization, etc.
 -	Order lab supplies, research and surgical equipment and monitor inventory. Maintain, assemble, adjust and repair a variety of sophisticated and complex laboratory equipment
@@ -50,7 +50,7 @@
 -Electrode, polymer matrices, reagents, buffers, cocktail formulations, and general responsibilities 
 ![image](https://github.com/tur77136/myCV/assets/157079782/457bcc57-3d94-4e74-8dd3-b0abe4e771fb)
 
-****Biopharmeceutical Manufacturing associate| September 2021 - January 2022 ** **
+**Biopharmeceutical Manufacturing associate| September 2021 - January 2022**
 **GlaxoSmithKline- Upstream Suite**
 -Documenting daily manufacturing tasks per cGMPs, standard operating procedures, and batch document instructions.
 -Applied aseptic gowning and all GMPcertifications for Cell Culture inoculations and Harvest
