@@ -13,7 +13,7 @@
 
 **UPenn West University | BS Health Sciences, minor in Applied Physics**
 
-*Fall 2017- current *
+*Fall 2017- Spring 2021 *
 - Undergraduate Advisor: Matthew Foradori, PhD, Sheldon Bailey, PhD
 
 ## Independent Research Projects
