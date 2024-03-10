@@ -6,8 +6,9 @@
 - Department of Neurosciences 
 - Temple University
 ## Education
-**Temple University | Bioinformatics and Biological Data Science MS **
+**Temple University | Bioinformatics and Biological Data Science MS**
 *Fall 2023 - Current*
+
 **UPenn West University | BS Health Sciences, minor in Applied Physics**
 *Fall 2017- Spring 2021*
 - Undergraduate Advisor: Matthew Foradori, PhD, Sheldon Bailey, PhD
